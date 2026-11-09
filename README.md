@@ -1,5 +1,7 @@
 # Ornament Fidelity: continuous trajectory models for Hindustani ornaments
 
+[![DOI](https://zenodo.org/badge/1451708609.svg)](https://doi.org/10.5281/zenodo.24090814)
+
 Code accompanying the paper *Continuous Trajectory Models for Hindustani Ornaments: Reconstruction Fidelity of Glide and
 Oscillation Alankaars on the Saraga Corpus*. It measures how closely compact parametric trajectories,
 expressed as continuous-variable (CV) displacement and rotation operations, reproduce the tracked pitch contour of
