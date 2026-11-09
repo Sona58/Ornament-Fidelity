@@ -1,0 +1,9 @@
+ornament,model,share_best_aicc
+glide,linear,0.5011820330969267
+glide,cosine_module1,0.11068128089404686
+glide,plateau_ramp,0.3004513217279175
+glide,plateau_cosine,0.08768536428110896
+osc,steady_free,0.0
+osc,linear_drift,0.0
+osc,sinusoid_module1,0.4090909090909091
+osc,sinusoid_drift,0.5909090909090909

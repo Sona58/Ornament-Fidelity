@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Compact Continuous Trajectory Representations of Hindustani Ornaments: Reconstruction Fidelity of Glide and Oscillation Alankaars"
+version: 1.0.0
+date-released: "2026-08-01"
+authors:
+  - family-names: "Chawla"
+    given-names: "Sonali"
+    orcid: "https://orcid.org/0000-0002-2580-4342"
+license: MIT
+repository-code: "https://github.com/Sona58/Ornament-Fidelity"
+keywords: [music information retrieval, Hindustani music, ornamentation, Saraga, pitch contour]

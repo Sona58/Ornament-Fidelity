@@ -1,0 +1,5 @@
+Meend  : max |quantum - classical| = 2.842e-14 cents
+Andolan: max |quantum - classical| = 7.105e-15 cents
+Meend, plateau-ramp path (Module 1+)      : 2.842e-14 cents
+Andolan + linear drift (Module 1+)        : 1.421e-14 cents
+All ~ machine precision

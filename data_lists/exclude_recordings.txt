@@ -1,0 +1,3 @@
+# One recording per line, as the path after the Saraga root: <release folder>\<raag folder>\<recording name>
+# (run: python scripts/01_run_reconstruction.py --saraga-root <ROOT> --list-only --write-keys all_keys.txt
+#  and copy the lines of the 10 excluded recordings here: 5 spoken-word tracks, 5 with degenerate ornament statistics)

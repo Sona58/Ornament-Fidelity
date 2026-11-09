@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+# working result folders (curated outputs belong in paper_results/)
+results*/
+synth_saraga/
+# corpus audio and anything derived from it
+*.mp3
+*.wav
+*.flac
+paper_results/**/audit/
+paper_results/**/audio/
+paper_results/**/figures/*spectrogram*
+paper_results/README.md

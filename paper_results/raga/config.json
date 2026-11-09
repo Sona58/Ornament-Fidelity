@@ -1,0 +1,24 @@
+{
+  "args": {
+    "saraga_root": "<SARAGA_ROOT>",
+    "manifest": "None",
+    "out": "results_raga",
+    "label_map": "label_map.csv",
+    "exclude_list": "exclude_recordings.txt",
+    "include_list": "None",
+    "ignore_unmatched": "False",
+    "min_per_raga": "3",
+    "osc_preset": "interior-wide",
+    "cv": "auto",
+    "k": "5",
+    "repeats": "10",
+    "boot": "1000",
+    "perm": "200",
+    "seed": "0",
+    "list_labels": "False"
+  },
+  "cv_mode": "group",
+  "n_recordings": 22,
+  "n_eval": 22,
+  "n_classes": 6
+}

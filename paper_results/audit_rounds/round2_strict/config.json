@@ -1,0 +1,61 @@
+{
+  "version": "0.4.1",
+  "python": "3.11.17 | packaged by Anaconda, Inc. | (main, Oct  1 2026, 20:16:54) [MSC v.1942 64 bit (AMD64)]",
+  "platform": "Windows-10-10.0.26300-SP0",
+  "numpy": "2.4.6",
+  "pandas": "3.1.0",
+  "args": {
+    "saraga_root": "<SARAGA_ROOT>",
+    "out": "results_v2",
+    "exclude_list": "exclude_recordings.txt",
+    "include_list": "None",
+    "ignore_unmatched": "False",
+    "write_keys": "None",
+    "max_recordings": "None",
+    "max_seg_per_rec": "None",
+    "audit_n": "60",
+    "min_voiced_s": "30.0",
+    "allow_estimated_tonic": "False",
+    "osc_preset": "strict-osc",
+    "list_only": "False",
+    "seed": "0"
+  },
+  "detector": {
+    "glide": {
+      "min_slope": 100.0,
+      "merge_gap": 5,
+      "min_dur": 0.45,
+      "max_dur": 4.0,
+      "min_excursion": 100.0,
+      "min_straightness": 0.85,
+      "extend_slope": 20.0,
+      "max_extend": 40
+    },
+    "osc": {
+      "window": 2.0,
+      "hop": 0.25,
+      "f_lo": 1.0,
+      "f_hi": 6.5,
+      "amp_lo": 15.0,
+      "amp_hi": 150.0,
+      "max_trend": 100.0,
+      "min_peak_frac": 0.5,
+      "max_dev_ratio": 3.0
+    }
+  },
+  "osc_preset": "strict-osc",
+  "osc_params": {
+    "window": 2.0,
+    "hop": 0.25,
+    "f_lo": 1.0,
+    "f_hi": 4.5,
+    "amp_lo": 25.0,
+    "amp_hi": 100.0,
+    "max_trend": 100.0,
+    "min_peak_frac": 0.7,
+    "max_dev_ratio": 2.5
+  },
+  "n_recordings_used": 98,
+  "n_segments": 4800,
+  "tonic_estimated": 0
+}

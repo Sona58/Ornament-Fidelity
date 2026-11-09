@@ -1,0 +1,9 @@
+numpy>=1.24
+scikit-learn>=1.0
+scipy>=1.10
+pandas>=2.0
+matplotlib>=3.7
+# optional: spectrogram figures from audio (also needs ffmpeg on PATH for mp3 on Windows)
+librosa>=0.10
+# optional: only for scripts/04_verify_cv_equivalence.py
+pennylane>=0.35

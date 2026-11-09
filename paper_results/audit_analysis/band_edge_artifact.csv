@@ -1,0 +1,3 @@
+audit,n_osc_segments,share_peak_at_band_edge,edge_genuine,edge_labelled,interior_genuine,interior_labelled
+round1_default,2422,0.643682906688687,3,14,8,11
+round2_strict,147,0.7551020408163265,12,21,7,7

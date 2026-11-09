@@ -1,0 +1,3 @@
+detector,band,labelled,any_oscillatory,precision,ci95_lo,ci95_hi,types
+broad (interior-wide),<=3 Hz,23,19,0.8260869565217391,0.6286194521470433,0.9302145964938723,"{'andolan': 12, 'gamak': 7, 'other': 4}"
+broad (interior-wide),>3 Hz,17,16,0.9411764705882353,0.730174547964372,0.9895398693548358,"{'kampit': 13, 'andolan': 2, 'gamak': 1, 'other': 1}"

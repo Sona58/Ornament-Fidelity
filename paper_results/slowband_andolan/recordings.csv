@@ -1,0 +1,99 @@
+rec_id,rel_key,stem,pitch_kind,tonic_hz,tonic_source,voiced_s,n_glide,n_osc,used
+R001,Anaahata by Milind Malshe/Raag Basanti Kedar/Raag Basanti Kedar,Raag Basanti Kedar,pitch,138.591315,file,655.33,31,0,True
+R002,Anaahata by Milind Malshe/Raag Dagori_Deepki/Raag Dagori_Deepki,Raag Dagori_Deepki,pitch,138.591315,file,450.12,3,0,True
+R003,Anaahata by Milind Malshe/Raag Hindol Pancham/Raag Hindol Pancham,Raag Hindol Pancham,pitch,139.394167,file,537.01,15,0,True
+R004,Anaahata by Milind Malshe/Raag Jait Kalyan/Raag Jait Kalyan,Raag Jait Kalyan,pitch,146.832384,file,1037.25,48,0,True
+R005,Anaahata by Milind Malshe/Raag Jogiya/Raag Jogiya,Raag Jogiya,pitch,138.591315,file,325.77,6,0,True
+R006,Anaahata by Milind Malshe/Raag Khat Todi/Raag Khat Todi,Raag Khat Todi,pitch,138.591315,file,965.1700000000001,20,0,True
+R007,Anaahata by Milind Malshe/Raag Khokar/Raag Khokar,Raag Khokar,pitch,155.563492,file,477.47,3,0,True
+R008,Anaahata by Milind Malshe/Raag Komal Rishav Aasavari/Raag Komal Rishav Aasavari,Raag Komal Rishav Aasavari,pitch,146.832384,file,1045.79,32,0,True
+R009,Anaahata by Milind Malshe/Raag Lalita Gauri/Raag Lalita Gauri,Raag Lalita Gauri,pitch,146.832384,file,732.69,4,0,True
+R010,Anaahata by Milind Malshe/Raag Nat Kamod/Raag Nat Kamod,Raag Nat Kamod,pitch,155.563492,file,298.03000000000003,3,0,True
+R011,Anaahata by Milind Malshe/Raag Ramgauri & Gauri/Raag Ramgauri & Gauri,Raag Ramgauri & Gauri,pitch,153.776693,file,606.61,4,0,True
+R013,Anaahata by Milind Malshe/Raag Sooha Kanada/Raag Sooha Kanada,Raag Sooha Kanada,pitch,161.982376,file,555.96,15,0,True
+R014,Anaahata by Milind Malshe/Raag Triveni/Raag Triveni,Raag Triveni,pitch,162.920731,file,889.3000000000001,5,0,True
+R015,Geetinandan _ Part-3 by Ajoy Chakrabarty/Aahir Bhairon/Aahir Bhairon,Aahir Bhairon,pitch,138.591315,file,441.38,44,0,True
+R016,Geetinandan _ Part-3 by Ajoy Chakrabarty/Bairagi/Bairagi,Bairagi,pitch,138.591315,file,675.47,87,0,True
+R017,Geetinandan _ Part-3 by Ajoy Chakrabarty/Bilaskhani Todi/Bilaskhani Todi,Bilaskhani Todi,pitch,138.591315,file,656.74,72,0,True
+R018,Geetinandan _ Part-3 by Ajoy Chakrabarty/Kalavati/Kalavati,Kalavati,pitch,138.591315,file,254.52,20,0,True
+R020,Geetinandan _ Part-3 by Ajoy Chakrabarty/Malkauns/Malkauns,Malkauns,pitch,184.997211,file,252.02,48,0,True
+R021,Geetinandan _ Part-3 by Ajoy Chakrabarty/Maru Bihag/Maru Bihag,Maru Bihag,pitch,138.591315,file,737.99,68,0,True
+R022,Geetinandan _ Part-3 by Ajoy Chakrabarty/Multani/Multani,Multani,pitch,138.591315,file,488.99,45,0,True
+R023,Geetinandan _ Part-3 by Ajoy Chakrabarty/Nat Bhairon/Nat Bhairon,Nat Bhairon,pitch,138.591315,file,471.85,53,0,True
+R024,Geetinandan _ Part-3 by Ajoy Chakrabarty/Raageshree/Raageshree,Raageshree,pitch,138.591315,file,389.17,39,0,True
+R026,Geetinandan _ Part-3 by Ajoy Chakrabarty/Sudh Kalyan/Sudh Kalyan,Sudh Kalyan,pitch,138.591315,file,684.24,111,0,True
+R027,Geetinandan _ Part-3 by Ajoy Chakrabarty/Sudh Sarang/Sudh Sarang,Sudh Sarang,pitch,138.591315,file,609.16,70,0,True
+R029,Geetinandan _ Part-3 by Ajoy Chakrabarty/Todi/Todi,Todi,pitch,138.591315,file,421.45,39,1,True
+R030,Hindustani Alaps by Kaustuv Kanti Ganguli/Raag Bilaskhani Todi/Raag Bilaskhani Todi,Raag Bilaskhani Todi,pitch,146.832384,file,318.02,48,0,True
+R031,Hindustani Alaps by Kaustuv Kanti Ganguli/Raag Desh/Raag Desh,Raag Desh,pitch,146.832384,file,285.86,9,2,True
+R035,Hindustani Alaps by Kaustuv Kanti Ganguli/Raag Miyan Malhar/Raag Miyan Malhar,Raag Miyan Malhar,pitch,146.832384,file,377.69,30,3,True
+R036,Hindustani Alaps by Kaustuv Kanti Ganguli/Raag Puriya Dhanashree/Raag Puriya Dhanashree,Raag Puriya Dhanashree,pitch,146.832384,file,330.22,12,0,True
+R037,Hindustani Alaps by Kaustuv Kanti Ganguli/Raag Yaman/Raag Yaman,Raag Yaman,pitch,146.832384,file,261.9,30,0,True
+R038,New Signature by Brajeshwar Mukherjee/Irani Bhairavi Thumri/Irani Bhairavi Thumri,Irani Bhairavi Thumri,pitch,195.997718,file,261.02,13,0,True
+R039,New Signature by Brajeshwar Mukherjee/Raag Bairagi/Raag Bairagi,Raag Bairagi,pitch,146.832384,file,1625.74,176,0,True
+R040,New Signature by Brajeshwar Mukherjee/Raag Saraswati/Raag Saraswati,Raag Saraswati,pitch,146.832384,file,515.99,17,0,True
+R041,Raag Abhogi & Megh by Anol Chatterjee/Raag Abhogi/Raag Abhogi,Raag Abhogi,pitch,195.997718,file,1413.16,85,0,True
+R042,Raag Abhogi & Megh by Anol Chatterjee/Raag Megh/Raag Megh,Raag Megh,pitch,146.832384,file,1346.81,132,0,True
+R043,"Raag Abhogi, Rageshree & Khamaj by Ajoy Chakrabarty/Raag Abhogi/Raag Abhogi",Raag Abhogi,pitch,130.812783,file,1380.83,13,0,True
+R044,"Raag Abhogi, Rageshree & Khamaj by Ajoy Chakrabarty/Raag Khamaj/Raag Khamaj",Raag Khamaj,pitch,140.201669,file,789.0500000000001,18,0,True
+R045,"Raag Abhogi, Rageshree & Khamaj by Ajoy Chakrabarty/Raag Rageshri/Raag Rageshri",Raag Rageshri,pitch,139.394167,file,1348.89,59,0,True
+R046,Raag Ahir Bhairon & Todi by Omkar Dadarkar/Raag Ahir Bhairon/Raag Ahir Bhairon,Raag Ahir Bhairon,pitch,155.563492,file,1626.43,43,0,True
+R047,Raag Ahir Bhairon & Todi by Omkar Dadarkar/Raag Todi/Raag Todi,Raag Todi,pitch,153.776693,file,785.58,14,0,True
+R048,Raag Bageshree & Bhairavi Bhajan by Satyasheel Deshpande/Bhairavi Bhajan/Bhairavi Bhajan,Bhairavi Bhajan,pitch,139.394167,file,702.84,21,0,True
+R049,Raag Bageshree & Bhairavi Bhajan by Satyasheel Deshpande/Raag Bageshree/Raag Bageshree,Raag Bageshree,pitch,139.394167,file,1655.51,45,0,True
+R050,"Raag Bahar, Gaud Malhar & Yaman by Omkar Dadarkar/Raag Bahar/Raag Bahar",Raag Bahar,pitch,155.563492,file,1288.49,121,0,True
+R051,"Raag Bahar, Gaud Malhar & Yaman by Omkar Dadarkar/Raag Gaud Malhar/Raag Gaud Malhar",Raag Gaud Malhar,pitch,153.776693,file,1133.45,41,0,True
+R052,"Raag Bahar, Gaud Malhar & Yaman by Omkar Dadarkar/Raag Yaman/Raag Yaman",Raag Yaman,pitch,152.891004,file,887.9200000000001,7,0,True
+R053,Raag Bhairav & Dhani by Kumar Gandharva/Raag Bhairav/Raag Bhairav,Raag Bhairav,pitch,176.643034,file,963.8000000000001,14,0,True
+R054,Raag Bhairav & Dhani by Kumar Gandharva/Raag Dhani/Raag Dhani,Raag Dhani,pitch,198.275102,file,1349.44,3,0,True
+R055,Raag Bhatiyar & Bhairavi Thumri by Kaustuv Kanti Ganguli/Bhairavi Thumri/Bhairavi Thumri,Bhairavi Thumri,pitch,146.832384,file,484.49,16,0,True
+R056,Raag Bhatiyar & Bhairavi Thumri by Kaustuv Kanti Ganguli/Raag Bhatiyar/Raag Bhatiyar,Raag Bhatiyar,pitch,146.832384,file,1467.9,42,0,True
+R057,Raag Bhimpalasi & Multani by Omkar Dadarkar/Raag Bhimpalasi/Raag Bhimpalasi,Raag Bhimpalasi,pitch,155.563492,file,1252.58,55,0,True
+R058,Raag Bhimpalasi & Multani by Omkar Dadarkar/Raag Multani/Raag Multani,Raag Multani,pitch,155.563492,file,1869.3700000000001,39,0,True
+R059,Raag Bhoopali & Gavti by Omkar Dadarkar/Raag Bhoopali/Raag Bhoopali,Raag Bhoopali,pitch,155.563492,file,2413.16,95,0,True
+R060,Raag Bhoopali & Gavti by Omkar Dadarkar/Raag Gavti/Raag Gavti,Raag Gavti,pitch,155.563492,file,1156.46,15,0,True
+R061,Raag Bhoopali & Paraj by Sameehan Kashalkar/Raag Bhoopali/Raag Bhoopali,Raag Bhoopali,pitch,146.832384,file,2110.87,149,0,True
+R062,Raag Bhoopali & Paraj by Sameehan Kashalkar/Raag Paraj/Raag Paraj,Raag Paraj,pitch,146.832384,file,680.1800000000001,4,0,True
+R063,Raag Bihag & Bhairavi Dadra by Omkar Dadarkar/Bhairavi Dadra/Bhairavi Dadra,Bhairavi Dadra,pitch,155.563492,file,476.01,9,0,True
+R064,Raag Bihag & Bhairavi Dadra by Omkar Dadarkar/Raag Bihag/Raag Bihag,Raag Bihag,pitch,234.43211,file,1643.0900000000001,67,0,True
+R065,Raag Bihag by Deborshee Bhattacharya/Raag Bihag/Raag Bihag,Raag Bihag,pitch,146.832384,file,2755.19,85,1,True
+R066,Raag Jog & Hameer by Brajeshwar Mukherjee/Raag Hameer/Raag Hameer,Raag Hameer,pitch,146.832384,file,658.9,62,0,True
+R067,Raag Jog & Hameer by Brajeshwar Mukherjee/Raag Jog/Raag Jog,Raag Jog,pitch,146.832384,file,1270.5,127,1,True
+R068,Raag Jog & Kirwani Bhajan by Kaustuv Kanti Ganguli/Kirwani Bhajan/Kirwani Bhajan,Kirwani Bhajan,pitch,146.832384,file,445.78000000000003,8,0,True
+R069,Raag Jog & Kirwani Bhajan by Kaustuv Kanti Ganguli/Raag Jog/Raag Jog,Raag Jog,pitch,146.832384,file,2143.42,36,0,True
+R070,"Raag Kalyan, Bhimpalasi & Dhani by Satyasheel Deshpande/Raag Bhimpalasi/Raag Bhimpalasi",Raag Bhimpalasi,pitch,147.682975,file,1374.01,32,0,True
+R071,"Raag Kalyan, Bhimpalasi & Dhani by Satyasheel Deshpande/Raag Dhani/Raag Dhani",Raag Dhani,pitch,147.682975,file,638.76,5,0,True
+R072,"Raag Kalyan, Bhimpalasi & Dhani by Satyasheel Deshpande/Raag Kalyan/Raag Kalyan",Raag Kalyan,pitch,147.682975,file,1402.6000000000001,43,0,True
+R073,Raag Kedar & Jog by Ajoy Chakrabarty/Raag Jog/Raag Jog,Raag Jog,pitch,146.832384,file,2072.32,161,1,True
+R074,Raag Kedar & Jog by Ajoy Chakrabarty/Raag Kedar/Raag Kedar,Raag Kedar,pitch,140.201669,file,1409.57,109,0,True
+R075,Raag Kedar & Sohani by Sameehan Kashalkar/Raag Kedar/Raag Kedar,Raag Kedar,pitch,155.563492,file,1889.58,98,0,True
+R076,Raag Kedar & Sohani by Sameehan Kashalkar/Raag Sohani/Raag Sohani,Raag Sohani,pitch,155.563492,file,472.19,9,0,True
+R077,Raag Lagan Gandhar & Nirgun Bhajan by Kumar Gandharva/Nirgun Bhajan/Nirgun Bhajan,Nirgun Bhajan,pitch,189.321316,file,472.19,15,0,True
+R078,Raag Lagan Gandhar & Nirgun Bhajan by Kumar Gandharva/Raag Lagan Gandhar/Raag Lagan Gandhar,Raag Lagan Gandhar,pitch,188.230906,file,1714.3400000000001,29,0,True
+R079,Raag Lalit & Bibhas by Omkar Dadarkar/Raag Bibhas/Raag Bibhas,Raag Bibhas,pitch,156.464662,file,633.1,18,0,True
+R080,Raag Lalit & Bibhas by Omkar Dadarkar/Raag Lalit/Raag Lalit,Raag Lalit,pitch,156.464662,file,1880.94,65,2,True
+R081,"Raag Malkauns, Chandrakauns & Majh Khamaj Thumri by Satyasheel Deshpande/Majh Khamaj Thumri/Majh Khamaj Thumri",Majh Khamaj Thumri,pitch,141.013849,file,234.55,6,0,True
+R083,"Raag Malkauns, Chandrakauns & Majh Khamaj Thumri by Satyasheel Deshpande/Raag Malkauns/Raag Malkauns",Raag Malkauns,pitch,141.013849,file,1586.32,130,0,True
+R084,Raag Marwa & Hameer by Sameehan Kashalkar/Raag Hameer/Raag Hameer,Raag Hameer,pitch,146.832384,file,614.46,27,0,True
+R085,Raag Marwa & Hameer by Sameehan Kashalkar/Raag Marwa/Raag Marwa,Raag Marwa,pitch,146.832384,file,1098.1200000000001,25,0,True
+R086,Raag Marwa & Shree by Omkar Dadarkar/Raag Marwa/Raag Marwa,Raag Marwa,pitch,152.010417,file,1569.66,66,0,True
+R087,Raag Marwa & Shree by Omkar Dadarkar/Raag Shree/Raag Shree,Raag Shree,pitch,152.010417,file,1772.41,58,2,True
+R088,Raag Mian Malhar & Ramdasi Malhar by Deborshee Bhattacharya/Raag Mian Malhar/Raag Mian Malhar,Raag Mian Malhar,pitch,146.832384,file,2795.75,135,2,True
+R089,Raag Mian Malhar & Ramdasi Malhar by Deborshee Bhattacharya/Raag Ramdasi Malhar/Raag Ramdasi Malhar,Raag Ramdasi Malhar,pitch,147.682975,file,506.72,26,0,True
+R090,Raag Mian Malhar & Ramdasi Malhar by Satyasheel Deshpande/Raag Mian Malhar/Raag Mian Malhar,Raag Mian Malhar,pitch,139.394167,file,2036.55,93,0,True
+R091,Raag Mian Malhar & Ramdasi Malhar by Satyasheel Deshpande/Raag Ramdasi Malhar/Raag Ramdasi Malhar,Raag Ramdasi Malhar,pitch,139.394167,file,481.1,8,0,True
+R092,Raag Poorva & Gaud Malhar by Sameehan Kashalkar/Raag Gaud Malhar/Raag Gaud Malhar,Raag Gaud Malhar,pitch,146.832384,file,672.12,15,0,True
+R093,Raag Poorva & Gaud Malhar by Sameehan Kashalkar/Raag Poorva/Raag Poorva,Raag Poorva,pitch,147.682975,file,2177.69,59,3,True
+R094,Raag Puriya & Bhimpalasi by Brajeshwar Mukherjee/Raag Bhimpalasi/Raag Bhimpalasi,Raag Bhimpalasi,pitch,146.832384,file,461.94,13,0,True
+R095,Raag Puriya & Bhimpalasi by Brajeshwar Mukherjee/Raag Puriya/Raag Puriya,Raag Puriya,pitch,146.832384,file,1313.96,59,0,True
+R096,Raag Sawani & Bahar by Ulhas Kashalkar/Raag Bahar/Raag Bahar,Raag Bahar,pitch,158.282694,file,506.8,16,0,True
+R097,Raag Sawani & Bahar by Ulhas Kashalkar/Raag Sawani/Raag Sawani,Raag Sawani,pitch,158.282694,file,941.69,43,0,True
+R098,Raag Shree by Deborshee Bhattacharya/Raag Shree/Raag Shree,Raag Shree,pitch,146.832384,file,2274.66,83,2,True
+R099,Raag Shree by Kaustuv Kanti Ganguli/Raag Shree/Raag Shree,Raag Shree,pitch,146.832384,file,2787.46,201,1,True
+R100,"Raag Shree, Lalit Pancham & Bhairavi Thumri by Kaustuv Kanti Ganguli/Bhairavi Thumri/Bhairavi Thumri",Bhairavi Thumri,pitch,195.997718,file,815.75,9,0,True
+R101,"Raag Shree, Lalit Pancham & Bhairavi Thumri by Kaustuv Kanti Ganguli/Raag Lalit Pancham/Raag Lalit Pancham",Raag Lalit Pancham,pitch,146.832384,file,1550.65,12,0,True
+R102,"Raag Shree, Lalit Pancham & Bhairavi Thumri by Kaustuv Kanti Ganguli/Raag Shree/Raag Shree",Raag Shree,pitch,146.832384,file,3065.2000000000003,47,1,True
+R103,Raag Todi by Kumar Gandharva/Raag Todi/Raag Todi,Raag Todi,pitch,187.146775,file,3110.59,60,0,True
+R106,Subha Chale Sham Dhale by Ajoy Chakrabarty/Raga Lalit - Khayal/Raga Lalit - Khayal,Raga Lalit - Khayal,pitch,141.830734,file,2122.55,114,0,True
+R107,Subha Chale Sham Dhale by Ajoy Chakrabarty/Raga Shree - Khayal/Raga Shree - Khayal,Raga Shree - Khayal,pitch,148.538494,file,2004.01,103,0,True
+R108,Subha Chale Sham Dhale by Ajoy Chakrabarty/Thumri in Piloo/Thumri in Piloo,Thumri in Piloo,pitch,148.538494,file,522.51,16,0,True
